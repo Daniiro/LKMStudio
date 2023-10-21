@@ -1,0 +1,460 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8"/>
+    <link href="/favicon.ico" rel="icon"/>
+    <link href="/favicon.ico" rel="shortcut icon"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="theme-color" content="#1e0e14">
+    
+    <meta name="title" content="Amber. Студия профессионального озвучивания"/>
+    <meta name="description" content="Мы хотим, чтобы хорошей озвучки аниме, было больше. Поэтому мы набрали команду переводчиков и пригласили профессиональных актёров."/>
+    
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://vkstudioamber.github.io/"/>
+    <meta property="og:title" content="Amber. Студия профессионального озвучивания"/>
+    <meta property="og:description" content="Мы хотим, чтобы хорошей озвучки аниме, было больше. Поэтому мы набрали команду переводчиков и пригласили профессиональных актёров."/>
+    <meta property="og:image" content="https://vkStudioAmber.github.io/assets/header.png"/> 
+    <meta property="og:image" content="https://vkStudioAmber.github.io/assets/icon.png"/> 
+    
+    <meta name="twitter:title" content="Amber. Студия профессионального озвучивания"/>
+    <meta name="twitter:description" content="Мы хотим, чтобы хорошей озвучки аниме, было больше. Поэтому мы набрали команду переводчиков и пригласили профессиональных актёров."/>
+    <meta name="twitter:image" content="https://vkStudioAmber.github.io/assets/header.png"/> 
+    <meta name="twitter:image" content="https://vkStudioAmber.github.io/assets/icon.png"/> 
+    
+    <title>Amber. Студия профессионального озвучивания</title>
+
+    <link href="/assets/reset.css" type="text/css" rel="stylesheet"/>
+    <link href="/assets/main.css" type="text/css" rel="stylesheet"/>
+
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&amp;subset=cyrillic,cyrillic-ext,latin-ext" type="text/css" rel="stylesheet"/>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+
+<header id="mainHeader" class="page-header">
+    
+	    <h1 class="page-header__logo logo">
+	        Amber
+	    </h1>
+    
+    <p class="page-header__logotext logotext">Студия профессионального озвучивания</p>
+</header>
+<div class="page-content main_container">
+    <!-- pagination -->
+
+<div class="pagination"> 
+    
+    
+    <span class="link-button link-button_disabled">&laquo; Назад</span>
+    
+    
+    
+    
+    <span class="link-button link-button_disabled link-button_active">1</span>
+    
+    
+    
+    <a class="link-button" href="/page-2/">2</a>
+    
+    
+    
+    <a class="link-button" href="/page-3/">3</a>
+    
+    
+    
+    
+    <a class="link-button" href="/page-2/">Вперёд &raquo;</a>
+    
+    
+</div>
+
+
+
+<!-- posts -->
+<div class="post-container post-container_content">
+    
+    <div class="post-container__post post">
+        <a class="post__mobile-link" href="/post/karanokyoukai" tabIndex="-1"></a>
+        <div class="post__poster-cell">
+            <a class="link post__poster-link" tabIndex="-1" href="/post/karanokyoukai">
+                <img class="post__poster" src="/assets/posters/karanokyoukai_poster.jpg" alt="" />
+            </a>
+        </div>
+        <dl class="post__details">
+            <dt class="post__title">
+                <a class="link post__main-link" href="/post/karanokyoukai">Граница пустоты: Сад грешников</a>
+            </dt>
+            <dd class="post__title-jp">
+                <span>Kara no Kyoukai</span>
+            </dd>
+            <dd class="post__episodes">
+                <span>
+                    
+                        Готово серий: <b>06 из 07</b>
+                    
+                </span>
+            </dd>
+            <dd class="post__description">
+                <p>В мире, где магия и технология сосуществуют, существует тайная организация, которая занимается расследованием и устранением аномалий, нарушающих порядок и законы реальности. Одна из ее сотрудниц - Сики Рёги, девушка с уникальной способностью видеть и разрушать все, что имеет форму. Она не помнит своего прошлого и живет в постоянном страхе потерять свою человечность. Единственный, кто поддерживает ее - Микия Кокуто, ее друг детства и партнер по работе. Вместе они сталкиваются с разными случаями, связанными с магией, убийствами, проклятиями и другими тайнами. Но вскоре они узнают, что за всем этим стоит более могущественный и зловещий враг, который планирует уничтожить мир и создать новый из пустоты.</p>
+            </dd>
+            <dd class="post__year">
+                <span>Год выпуска: 2007</span>
+            </dd>
+            <dd class="post__genres">
+                <span class="tag post__tag">мистика</span><span class="tag post__tag">триллер</span>
+            </dd>
+        </dl>
+    </div>
+    
+    <div class="post-container__post post">
+        <a class="post__mobile-link" href="/post/nier" tabIndex="-1"></a>
+        <div class="post__poster-cell">
+            <a class="link post__poster-link" tabIndex="-1" href="/post/nier">
+                <img class="post__poster" src="/assets/posters/nierposter.jpg" alt="" />
+            </a>
+        </div>
+        <dl class="post__details">
+            <dt class="post__title">
+                <a class="link post__main-link" href="/post/nier">Нир: Автомата v1.1a</a>
+            </dt>
+            <dd class="post__title-jp">
+                <span>Nier: Automata v1.1a</span>
+            </dd>
+            <dd class="post__episodes">
+                <span>
+                    
+                        Готово серий: <b>12 из 12</b>
+                    
+                </span>
+            </dd>
+            <dd class="post__description">
+                <p>Культовая история о мире будущего, где андроиды, оставшись без «хозяев», нашли смысл своего существования в бесконечной войне с машинами — во имя человечества.</p>
+            </dd>
+            <dd class="post__year">
+                <span>Год выпуска: 2023</span>
+            </dd>
+            <dd class="post__genres">
+                <span class="tag post__tag">фантастика</span><span class="tag post__tag">экшн</span><span class="tag post__tag">меха</span>
+            </dd>
+        </dl>
+    </div>
+    
+    <div class="post-container__post post">
+        <a class="post__mobile-link" href="/post/mahoutsukai" tabIndex="-1"></a>
+        <div class="post__poster-cell">
+            <a class="link post__poster-link" tabIndex="-1" href="/post/mahoutsukai">
+                <img class="post__poster" src="/assets/posters/mahoutsukai2_poster.jpg" alt="" />
+            </a>
+        </div>
+        <dl class="post__details">
+            <dt class="post__title">
+                <a class="link post__main-link" href="/post/mahoutsukai">Невеста Чародея 2</a>
+            </dt>
+            <dd class="post__title-jp">
+                <span>Mahoutsukai no Yome 2</span>
+            </dd>
+            <dd class="post__episodes">
+                <span>
+                    
+                        Готово серий: <b>14 из 24</b>
+                    
+                </span>
+            </dd>
+            <dd class="post__description">
+                <p>В свои 16 Хатори Тисэ уже потеряла гораздо больше, чем остальные. Не имея ни семьи, ни надежды, она понимает: все двери для неё закрыты. Но случайная встреча приводит в движение ржавые колёса судьбы. В самый тёмный час перед Хатори появляется таинственный чародей, который предлагает ей всё изменить. Поможет ли он несчастной девушке выйти к свету или погрузит в ещё больший мрак?</p>
+            </dd>
+            <dd class="post__year">
+                <span>Год выпуска: 2023</span>
+            </dd>
+            <dd class="post__genres">
+                <span class="tag post__tag">фентези</span>
+            </dd>
+        </dl>
+    </div>
+    
+    <div class="post-container__post post">
+        <a class="post__mobile-link" href="/post/basuke_last" tabIndex="-1"></a>
+        <div class="post__poster-cell">
+            <a class="link post__poster-link" tabIndex="-1" href="/post/basuke_last">
+                <img class="post__poster" src="/assets/posters/basuke_last.jpg" alt="" />
+            </a>
+        </div>
+        <dl class="post__details">
+            <dt class="post__title">
+                <a class="link post__main-link" href="/post/basuke_last">Баскетбол Куроко: Последняя игра</a>
+            </dt>
+            <dd class="post__title-jp">
+                <span>Kuroko No Basket Movie: Last Game</span>
+            </dd>
+            <dd class="post__episodes">
+                <span>
+                    
+                        Фильм
+                    
+                </span>
+            </dd>
+            <dd class="post__description">
+                <p>Баскетболисты превозмогают в последней игре. Дубляж.</p>
+            </dd>
+            <dd class="post__year">
+                <span>Год выпуска: 2017</span>
+            </dd>
+            <dd class="post__genres">
+                <span class="tag post__tag">спокон</span>
+            </dd>
+        </dl>
+    </div>
+    
+    <div class="post-container__post post">
+        <a class="post__mobile-link" href="/post/basuke_winter" tabIndex="-1"></a>
+        <div class="post__poster-cell">
+            <a class="link post__poster-link" tabIndex="-1" href="/post/basuke_winter">
+                <img class="post__poster" src="/assets/posters/basuke_winter.jpg" alt="" />
+            </a>
+        </div>
+        <dl class="post__details">
+            <dt class="post__title">
+                <a class="link post__main-link" href="/post/basuke_winter">Баскетбол Куроко: Основные моменты Зимнего кубка</a>
+            </dt>
+            <dd class="post__title-jp">
+                <span>Kuroko No Basket Movie: Winter Cup Soushuuhen</span>
+            </dd>
+            <dd class="post__episodes">
+                <span>
+                    
+                        Готово серий: <b>3 из 3</b>
+                    
+                </span>
+            </dd>
+            <dd class="post__description">
+                <p>Баскетболисты превозмогают.</p>
+            </dd>
+            <dd class="post__year">
+                <span>Год выпуска: 2016</span>
+            </dd>
+            <dd class="post__genres">
+                <span class="tag post__tag">спокон</span>
+            </dd>
+        </dl>
+    </div>
+    
+    <div class="post-container__post post">
+        <a class="post__mobile-link" href="/post/eva3" tabIndex="-1"></a>
+        <div class="post__poster-cell">
+            <a class="link post__poster-link" tabIndex="-1" href="/post/eva3">
+                <img class="post__poster" src="/assets/posters/eva3.jpg" alt="" />
+            </a>
+        </div>
+        <dl class="post__details">
+            <dt class="post__title">
+                <a class="link post__main-link" href="/post/eva3">Евангелион 3.0+1.11</a>
+            </dt>
+            <dd class="post__title-jp">
+                <span>Evangelion 3.0+1.11</span>
+            </dd>
+            <dd class="post__episodes">
+                <span>
+                    
+                        Готово серий: <b>фильм</b>
+                    
+                </span>
+            </dd>
+            <dd class="post__description">
+                <p>Синдзи выясняет отношения с отцом.</p>
+            </dd>
+            <dd class="post__year">
+                <span>Год выпуска: 2021</span>
+            </dd>
+            <dd class="post__genres">
+                <span class="tag post__tag">экшн</span><span class="tag post__tag">меха</span><span class="tag post__tag">драма</span>
+            </dd>
+        </dl>
+    </div>
+    
+    <div class="post-container__post post">
+        <a class="post__mobile-link" href="/post/vinland2" tabIndex="-1"></a>
+        <div class="post__poster-cell">
+            <a class="link post__poster-link" tabIndex="-1" href="/post/vinland2">
+                <img class="post__poster" src="/assets/posters/vinland2poster.jpg" alt="" />
+            </a>
+        </div>
+        <dl class="post__details">
+            <dt class="post__title">
+                <a class="link post__main-link" href="/post/vinland2">Сага о Винланде 2</a>
+            </dt>
+            <dd class="post__title-jp">
+                <span>Vinland Saga 2</span>
+            </dd>
+            <dd class="post__episodes">
+                <span>
+                    
+                        Готово серий: <b>24 из 24</b>
+                    
+                </span>
+            </dd>
+            <dd class="post__description">
+                <p>Эта история начинается в начале XI века, когда господствовавшие в северных морях викинги начинают захват Англии. В эпоху, когда топор являлся более весомым аргументом, чем слово, маленький мальчик теряет своего отца. Став на путь воина, он жаждет честного поединка с убийцей своего отца. Юноша вступает в отряд своего врага и выполняет для него самые сложные задания, получая в награду право на дуэль. Но в каждой их дуэли он проигрывает опыту и возрасту соперника. Продолжая свою жизнь наёмника, невольно он становится участником куда более серьёзного мирового конфликта. </p>
+            </dd>
+            <dd class="post__year">
+                <span>Год выпуска: 2023</span>
+            </dd>
+            <dd class="post__genres">
+                <span class="tag post__tag">приключения</span><span class="tag post__tag">историческое</span><span class="tag post__tag">драма</span>
+            </dd>
+        </dl>
+    </div>
+    
+    <div class="post-container__post post">
+        <a class="post__mobile-link" href="/post/pokemon_master" tabIndex="-1"></a>
+        <div class="post__poster-cell">
+            <a class="link post__poster-link" tabIndex="-1" href="/post/pokemon_master">
+                <img class="post__poster" src="/assets/posters/pokemaster.jpg" alt="" />
+            </a>
+        </div>
+        <dl class="post__details">
+            <dt class="post__title">
+                <a class="link post__main-link" href="/post/pokemon_master">Покемон: Стать мастером покемонов</a>
+            </dt>
+            <dd class="post__title-jp">
+                <span>Pocket Monsters: Mezase! Pokemon Master</span>
+            </dd>
+            <dd class="post__episodes">
+                <span>
+                    
+                        Готово серий: <b>11 из 11</b>
+                    
+                </span>
+            </dd>
+            <dd class="post__description">
+                <p>Заключительная арка приключений Эша и пикачу.</p>
+            </dd>
+            <dd class="post__year">
+                <span>Год выпуска: 2023</span>
+            </dd>
+            <dd class="post__genres">
+                <span class="tag post__tag">приключения</span>
+            </dd>
+        </dl>
+    </div>
+    
+    <div class="post-container__post post">
+        <a class="post__mobile-link" href="/post/pokemon" tabIndex="-1"></a>
+        <div class="post__poster-cell">
+            <a class="link post__poster-link" tabIndex="-1" href="/post/pokemon">
+                <img class="post__poster" src="/assets/posters/pokemon.jpg" alt="" />
+            </a>
+        </div>
+        <dl class="post__details">
+            <dt class="post__title">
+                <a class="link post__main-link" href="/post/pokemon">Покемон: Приключения (132 серия)</a>
+            </dt>
+            <dd class="post__title-jp">
+                <span>Pocket Monsters (2019)</span>
+            </dd>
+            <dd class="post__episodes">
+                <span>
+                    
+                        Только 132 серия
+                    
+                </span>
+            </dd>
+            <dd class="post__description">
+                <p>Эш побеждает в чемпионате мира.</p>
+            </dd>
+            <dd class="post__year">
+                <span>Год выпуска: 2019</span>
+            </dd>
+            <dd class="post__genres">
+                <span class="tag post__tag">приключения</span>
+            </dd>
+        </dl>
+    </div>
+    
+    <div class="post-container__post post">
+        <a class="post__mobile-link" href="/post/dorohedoro" tabIndex="-1"></a>
+        <div class="post__poster-cell">
+            <a class="link post__poster-link" tabIndex="-1" href="/post/dorohedoro">
+                <img class="post__poster" src="/assets/posters/doroposter.jpg" alt="" />
+            </a>
+        </div>
+        <dl class="post__details">
+            <dt class="post__title">
+                <a class="link post__main-link" href="/post/dorohedoro">Дорохедоро</a>
+            </dt>
+            <dd class="post__title-jp">
+                <span>Dorohedoro</span>
+            </dd>
+            <dd class="post__episodes">
+                <span>
+                    
+                        Готово серий: <b>13 из 13</b>
+                    
+                </span>
+            </dd>
+            <dd class="post__description">
+                <p>Житель Дыры Кайман потерял прежний облик и лишился памяти. Теперь, вместе с подругой Никайдо, он ищет виновника своих невзгод и надеется вернуть всё как было.</p>
+            </dd>
+            <dd class="post__year">
+                <span>Год выпуска: 2020</span>
+            </dd>
+            <dd class="post__genres">
+                <span class="tag post__tag">экшн</span><span class="tag post__tag">комедия</span><span class="tag post__tag">фентези</span>
+            </dd>
+        </dl>
+    </div>
+    
+</div>
+<!-- pagination -->
+
+<div class="pagination"> 
+    
+    
+    <span class="link-button link-button_disabled">&laquo; Назад</span>
+    
+    
+    
+    
+    <span class="link-button link-button_disabled link-button_active">1</span>
+    
+    
+    
+    <a class="link-button" href="/page-2/">2</a>
+    
+    
+    
+    <a class="link-button" href="/page-3/">3</a>
+    
+    
+    
+    
+    <a class="link-button" href="/page-2/">Вперёд &raquo;</a>
+    
+    
+</div>
+
+
+</div>
+<footer class="page-footer">
+    <div class="page-footer__container">
+        <p class="page-footer__small-title small-title">
+            Amber в соцсетях:
+        </p>
+        <ul class="social-icons page-footer__social-icons">
+            <li class="social-icons__list-item social-icons__list-item_vk">
+                <a class="link social-icons__link" href="https://vk.com/studioamber">
+                    <span class="social-icons__name">ВКонтакте</span>
+                </a>
+            </li>
+            <li class="social-icons__list-item social-icons__list-item_tg">
+                <a class="link social-icons__link" href="https://t.me/AmberStudio">
+                    <span class="social-icons__name">Telegram</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</footer>
+</body>
+
+</html>
