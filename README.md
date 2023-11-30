@@ -1,2 +1,1 @@
 # LKMStudio
-huidmi blat
